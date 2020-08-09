@@ -32,6 +32,6 @@ O projeto desenvolvido na segunda edição da NLW foi o Proffy, uma plataforma d
 
 - [ ] Implementar a tela de cadastro para professores.
 
-# Desafio Sugeridos 
+# Desafios Sugeridos 
 
 Notion: https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
