@@ -26,11 +26,11 @@ O projeto desenvolvido na segunda edição da NLW foi o Proffy, uma plataforma d
 
 ## Web - React com TypeScript
 
-- [] Adicionar tela de sucesso após cadastrar um professor
+- [ ] Adicionar tela de sucesso após cadastrar um professor
 
 ## Mobile - React Native com TypeScript
 
-- [X] Implementar a tela de cadastro para professores.
+- [ ] Implementar a tela de cadastro para professores.
 
 # Desafio Sugeridos 
 
